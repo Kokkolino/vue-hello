@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding-top: 120px;
+    width: 100%;
+    min-height: 100vh;
+    background-color: cornflowerblue;
+}
+
+#root {
+    width: 70%;
+    padding: 15px 0;
+    margin: auto;
+}
+
+#root *{
+    margin: auto;
+    text-align: center;
+    color: white;
+}
